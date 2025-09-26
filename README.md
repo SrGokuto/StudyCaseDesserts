@@ -54,13 +54,8 @@ Brindar a los clientes una experiencia deliciosa, moderna y confiable al momento
 
 ## Opinión grupal
 
-Un emprendimiento de tortas tiene muchísimo potencial porque combina tradición con creatividad. La gente siempre celebra cumpleaños, aniversarios, bodas o logros, y en casi todos esos momentos hay una torta en la mesa. Eso significa que no es solo vender un producto, sino estar presente en la emoción y recuerdo de cada cliente.
-Lo positivo es que puedes diferenciarte en varios frentes:
-Personalización: tortas temáticas, con diseños únicos o mensajes especiales.
-Calidad de ingredientes: usar insumos frescos y saludables (menos azúcar, opciones sin gluten o veganas).
-Presentación y experiencia: no solo vender la torta, sino acompañarla de empaques bonitos, velas, toppers o tarjetas.
-Canales digitales: mostrar tu trabajo en redes sociales es clave; las fotos de tortas siempre atraen.
-El reto está en la competencia, porque hay muchos reposteros y panaderías. Por eso, la clave es innovar y contar una historia detrás de tu marca (ejemplo: “tortas artesanales con recetas familiares”, o “tortas modernas con diseños exclusivos”).
+Un emprendimiento de tortas tiene muchísimo potencial porque combina tradición con creatividad. La gente siempre celebra cumpleaños, aniversarios, bodas o logros, y en casi todos esos momentos hay una torta en la mesa. Eso significa que no es solo vender un producto, 
+la explicación y la atención es muy buena tienes varios productos y deliciosos es algo innovador y creativo.
 
 
 
