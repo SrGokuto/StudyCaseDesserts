@@ -57,5 +57,8 @@ Brindar a los clientes una experiencia deliciosa, moderna y confiable al momento
 Un emprendimiento de tortas tiene muchísimo potencial porque combina tradición con creatividad. La gente siempre celebra cumpleaños, aniversarios, bodas o logros, y en casi todos esos momentos hay una torta en la mesa. Eso significa que no es solo vender un producto, 
 la explicación y la atención es muy buena tienes varios productos y deliciosos es algo innovador y creativo.
 
+# Conclusión
+- El emprendimiento de tortas, ponqués, postres, banquetes y recepciones representa una propuesta innovadora que une tradición y modernidad. Gracias a la solucion digitalizada que nosostros proponemos, el uso de tecnologías en la producción y estrategias de marketing, se garantiza un servicio eficiente, productos de calidad y una experiencia única para los clientes.
+
 
 
