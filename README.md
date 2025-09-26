@@ -18,6 +18,11 @@ El emprendimiento se dedica a la elaboración de tortas personalizadas para toda
 - **Marketing y promociones:** presencia en redes sociales y envío de correos promocionales.  
 - **Gestión de entregas:** rutas optimizadas y seguimiento en tiempo real.
 
+ ## Arquitectura Tecnológica Propuesta
+- **Backend:** Node.js con Express (gestión de pedidos, clientes e inventario).  
+- **Base de datos:** MySQL (estructura de pedidos y facturación) o MongoDB (flexibilidad para diseños personalizados).  
+- **Pagos:** Integración con PayU o Wompi. 
+
 
 ## Tecnologías para la Producción
 
