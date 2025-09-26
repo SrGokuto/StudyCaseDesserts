@@ -21,32 +21,32 @@ El emprendimiento se dedica a la elaboración de tortas personalizadas para toda
 
 ## Tecnologías para la Producción
 
-- **Hornos inteligentes y termómetros digitales: controlan temperatura y tiempo con precisión para mantener la calidad.
-- **Básculas digitales con conexión a apps: ayudan a estandarizar recetas y calcular costos exactos.
-- **Impresoras 3D de repostería o de chocolate: permiten diseños personalizados únicos.
-- **Decoración con aerógrafos eléctricos y moldes de silicona personalizados: tecnología sencilla que eleva el acabado.
+- **Hornos inteligentes y termómetros digitales:** controlan temperatura y tiempo con precisión para mantener la calidad.
+- **Básculas digitales con conexión a apps:** ayudan a estandarizar recetas y calcular costos exactos.
+- **Impresoras 3D de repostería o de chocolate:** permiten diseños personalizados únicos.
+- **Decoración con aerógrafos eléctricos y moldes de silicona personalizados:** tecnología sencilla que eleva el acabado.
 
 
 ## Tecnologías para la Gestión del Negocio
 
-- **Software de punto de venta (POS): como Square, Loyverse, Vend, para controlar inventario, ventas y clientes.
-- **Apps de gestión de pedidos: Trello, Notion o apps específicas para panaderías/pastelerías que organizan entregas y producción.
-- **Control de inventarios con código QR o RFID: útil para insumos como harina, frutas o empaques.
+- **Software de punto de venta (POS):** como Square, Loyverse, Vend, para controlar inventario, ventas y clientes.
+- **Apps de gestión de pedidos:** Trello, Notion o apps específicas para panaderías/pastelerías que organizan entregas y producción.
+- **Control de inventarios con código QR o RFID:** útil para insumos como harina, frutas o empaques.
 
 
 ## Tecnologías para Marketing y Ventas
 
-- **Redes sociales + herramientas de diseño (Canva, CapCut, InShot): para crear contenido atractivo.
-- **Página web con e-commerce: vender directamente sin depender solo de apps de terceros.
-- **Chatbots en WhatsApp o Messenger: automatizan pedidos y consultas frecuentes.
+- **Redes sociales + herramientas de diseño (Canva, CapCut, InShot):** para crear contenido atractivo.
+- **Página web con e-commerce:** vender directamente sin depender solo de apps de terceros.
+- **Chatbots en WhatsApp o Messenger:** automatizan pedidos y consultas frecuentes.
 - **Plataformas de delivery (Rappi, Uber Eats, Domicilios.com) para ampliar la cobertura.
 
 
 ## Tecnologías de Innovación y Sostenibilidad
 
-- **Empaques biodegradables con QR: además de cuidar el ambiente, el código puede llevar a un menú digital o promociones.
-- **Sistemas de ahorro energético: hornos y refrigeradores con eficiencia energética.
-- **Trazabilidad con blockchain (si piensas a futuro grande): mostrar transparencia en los ingredientes (ej: cacao, frutas locales).
+- **Empaques biodegradables con QR:** además de cuidar el ambiente, el código puede llevar a un menú digital o promociones.
+- **Sistemas de ahorro energético:** hornos y refrigeradores con eficiencia energética.
+- **Trazabilidad con blockchain (si piensas a futuro grande):** mostrar transparencia en los ingredientes (ej: cacao, frutas locales).
 
 
 ## Objetivo
