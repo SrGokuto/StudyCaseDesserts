@@ -50,11 +50,11 @@ El emprendimiento se dedica a la elaboración de tortas personalizadas para toda
 
 
 ## Objetivo
-Brindar a los clientes una experiencia deliciosa, moderna y confiable al momento de pedir su torta, combinando sabor.
+- Brindar a los clientes una experiencia deliciosa, moderna y confiable al momento de pedir su torta, combinando sabor.
 
 ## Opinión grupal
 
-Un emprendimiento de tortas tiene muchísimo potencial porque combina tradición con creatividad. La gente siempre celebra cumpleaños, aniversarios, bodas o logros, y en casi todos esos momentos hay una torta en la mesa. Eso significa que no es solo vender un producto, 
+- Un emprendimiento de tortas tiene muchísimo potencial porque combina tradición con creatividad. La gente siempre celebra cumpleaños, aniversarios, bodas o logros, y en casi todos esos momentos hay una torta en la mesa. Eso significa que no es solo vender un producto, 
 la explicación y la atención es muy buena tienes varios productos y deliciosos es algo innovador y creativo.
 
 # Conclusión
