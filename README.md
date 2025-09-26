@@ -6,7 +6,7 @@ El emprendimiento se dedica a la elaboración de tortas personalizadas para toda
 ##  ¿Qué ofrecen?
 - **Tortas personalizadas** con diferentes sabores, decoraciones y formas.  
 - **Postres** de gran variedad, con disfintos sabores.  
-- **Banquetes ** para eventos especiales.  
+- **Banquetes** para eventos especiales.  
 - **Recepciones** para cualquier ocasion.  
 - **Entrega a domicilio** organizada y puntual.  
 
@@ -39,7 +39,7 @@ El emprendimiento se dedica a la elaboración de tortas personalizadas para toda
 - **Redes sociales + herramientas de diseño (Canva, CapCut, InShot):** para crear contenido atractivo.
 - **Página web con e-commerce:** vender directamente sin depender solo de apps de terceros.
 - **Chatbots en WhatsApp o Messenger:** automatizan pedidos y consultas frecuentes.
-- **Plataformas de delivery (Rappi, Uber Eats, Domicilios.com) para ampliar la cobertura.
+- **Plataformas de delivery** (Rappi, Uber Eats, Domicilios.com) para ampliar la cobertura.
 
 
 ## Tecnologías de Innovación y Sostenibilidad
