@@ -51,30 +51,28 @@ El emprendimiento se dedica a la elaboración de tortas personalizadas para toda
   
 ## Precios
 ### [Horno inteligente Bakertop 6 Bandejas ~ COP 42‑46 M]()
-#### industria / gran escala
+
 $ 42.820.000,00
 
 ### [Kit POS económico ~ COP 1,4 M]()
-#### punto de venta básico
+
 $ 1.415.000,00
 
 ### [Smart Oven/Air Fryer Pro ~ COP 1,68 M]()
-#### electrodoméstico hogareño
+
 $ 1.678.147,00 ahora
 
 ### [Hardware POS + Cajón ~ COP 1,71 M]()
-#### kit hardware
+
 $ 1.710.199,00 ahora
 
 ### [Horno eléctrico Smart 76 cm ~ COP 22,27 M]()
-#### horno mediano
+
 $ 22.269.900,00
 
 ### [Terminal POS Android 15,6″ ~ COP 1,96 M]()
-#### terminal de venta
-*$ 1.959.900,00*Aquí los más destacados:
-Precios estimados de softwares/servicios
 
+$ 1.959.900,00
 # Aquí algunas tecnologías de gestión, digitalización, etc., con sus precios en Colombia:
 
 ## Tecnología / Servicio	Precio estimado	Notas
